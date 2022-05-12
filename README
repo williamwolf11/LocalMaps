@@ -1,0 +1,20 @@
+Programming by Will Wolf, Art by Ev Berger-Wolf
+
+Instructions:
+
+1. When viewing the world map, either
+  a. Click on a pin to view a user-made map or
+  b. Click “Create Map!” to make a map, and then
+2. Use the up/down arrow keys to change the background
+3. Use the left/right arrow keys to change the image in the top left corner
+4. Drag and drop an image to place it on your map
+  a. To undo most recent drop, press the Enter/Return key
+5. When you’re done, write your name in the text box and press “Create Map!” to save your map
+  a. NOTE: there’s a transparent image in the top left corner…
+     use the left/right arrow keys to navigate to it and leave it there while you save your map!
+6. You will then be taken back to the world map
+7. Click anywhere on the world map once to drop the pin which will link to your map
+8. Go back to step one, and click on the pin you just dropped to see your map with your name on it!
+
+**In order for this to work, set your browser's default download location to this project's images
+folder and delete map0, map1, map2 ... mapN when you're done with a locally hosted session
